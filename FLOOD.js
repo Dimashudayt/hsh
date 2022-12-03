@@ -1,4 +1,4 @@
-process.on('uncaughtException', function(er) {
+Byprocess.on('uncaughtException', function(er) {
     //console.error(er)
 });
 process.on('unhandledRejection', function(er) {
